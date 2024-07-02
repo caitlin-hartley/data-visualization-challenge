@@ -40,3 +40,6 @@ Study to compare the performance of Pymaceuticals’ drug of interest, Capomulin
   - Plot the linear regression model
 
 ## Analysis
+
+  - Based on the data, Capomulin and Ramicane are the most effective treatments. The average tumor volume and final tumor volume for both of these treatments is significanly less than the other treatments. Additionally, the mice using these treatments have the highest number of observed timepoints, indicating the mice given these treatments potentially live longer.
+  - The data also shows a strong correlation between mouse weight and average tumor size for the Capomulin regimine, with a correlation coefficient of 0.84. 
