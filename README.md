@@ -11,14 +11,24 @@ Study to compare the performance of Pymaceuticals’ drug of interest, Capomulin
   - Check for any mouse ID with duplicate time points
   - Create new clean DataFrame where duplicate mouse is removed
 
+![merge](https://github.com/caitlin-hartley/data-visualization-challenge/blob/main/images/merge_data.png)
+
+![clean](https://github.com/caitlin-hartley/data-visualization-challenge/blob/main/images/clean_data.png)
+
 ## Generate Summary Statistics
 
   - Generate summary statistic table including: mean, median, variance, standard deviation, and SEM of the tumor volume.
+
+![summary](https://github.com/caitlin-hartley/data-visualization-challenge/blob/main/images/summary_stats.png)
 
 ## Create Bar Charts and Pie Charts
 
   - Generate two bar charts that show the total total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study
   - Generate two pie charts that show the distribution of female versus male mice in the study
+
+![bar](https://github.com/caitlin-hartley/data-visualization-challenge/blob/main/images/bar_plot.png)
+
+![pie](https://github.com/caitlin-hartley/data-visualization-challenge/blob/main/images/pie_chart.png)
 
 ## Calculate Quartiles, Find Outliers, and Create a Box Plot
 
@@ -29,15 +39,25 @@ Study to compare the performance of Pymaceuticals’ drug of interest, Capomulin
   - Determine outliers by using the upper and lower bounds
   - Generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group
 
+![quartiles](https://github.com/caitlin-hartley/data-visualization-challenge/blob/main/images/quartiles_outliers.png)
+
+![box](https://github.com/caitlin-hartley/data-visualization-challenge/blob/main/images/box_whisker.png)
+
 ## Create a Line Plot and a Scatter Plot
 
   - Select single mouse that was treated with Capomulin
   - Generate a line plot of tumor volume versus time point for that mouse
 
+![line](https://github.com/caitlin-hartley/data-visualization-challenge/blob/main/images/line.png)
+
+![scatter](https://github.com/caitlin-hartley/data-visualization-challenge/blob/main/images/scatter.png)
+
 ## Calculate Correlation and Regression
 
   - Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the Capomulin treatment regimen
   - Plot the linear regression model
+
+![correlation]https://github.com/caitlin-hartley/data-visualization-challenge/blob/main/images/correlation.png)
 
 ## Analysis
 
