@@ -29,13 +29,14 @@ Study to compare the performance of Pymaceuticals’ drug of interest, Capomulin
   - Determine outliers by using the upper and lower bounds
   - Generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group
 
-## Create a line plot and a scatter plot.
+## Create a Line Plot and a Scatter Plot
 
   - Select single mouse that was treated with Capomulin
   - Generate a line plot of tumor volume versus time point for that mouse
 
-## Calculate correlation and regression.
+## Calculate Correlation and Regression
 
   - Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the Capomulin treatment regimen
   - Plot the linear regression model
 
+## Analysis
